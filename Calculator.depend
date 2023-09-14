@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1694687229 source:f:\programming\oop\calculator\main.cpp
+	<iostream>
+	<fstream>
+	"sum.h"
+	"sub.h"
+	"mlt.h"
+	"div.h"
+	"pow.h"
+	"history.h"
+
+1694674072 f:\programming\oop\calculator\sub.h
+
+1694674072 f:\programming\oop\calculator\sum.h
+
+1694674072 f:\programming\oop\calculator\mlt.h
+
+1694674072 f:\programming\oop\calculator\div.h
+
+1694674072 f:\programming\oop\calculator\pow.h
+
+1694682757 f:\programming\oop\calculator\history.h
+
